@@ -62,7 +62,7 @@ h3{font-weight:300;font-size: 35px;line-height:38px;margin-bottom:40px;}
 .portfolio ul li .overlay span a{border: 1px solid #fff;width: auto;display: inline-block;padding: 8px 20px;color: #fff;background: rgba(0,0,0,0.6);letter-spacing: 2px;word-spacing: 5px;}
 .portfolio ul li .overlay span a:hover{background: rgba(0,0,0,0.8);}
 
-
+.testimonials{min-height: 850px;}
 
 .testimonials-bg{background:url(images/testimonial-bg.jpg) center fixed #000;background-size:cover;}
 .testimonials{background:rgba(0,0,0,0.9);color: #fff;}
